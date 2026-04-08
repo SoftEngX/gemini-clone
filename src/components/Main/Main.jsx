@@ -22,16 +22,16 @@ const Main = () => {
             <img src={assets.compass_icon} alt="" />
           </div>
           <div className="card">
-            <p>Suggest beautiful places to see on an upcoming road trip</p>
-            <img src={assets.compass_icon} alt="" />
+            <p>Briefly summorize this concept: urban planning</p>
+            <img src={assets.bulb_icon} alt="" />
           </div>
           <div className="card">
-            <p>Suggest beautiful places to see on an upcoming road trip</p>
-            <img src={assets.compass_icon} alt="" />
+            <p>Brainstorm team bonding activites for our work retreat</p>
+            <img src={assets.message_icon} alt="" />
           </div>
           <div className="card">
-            <p>Suggest beautiful places to see on an upcoming road trip</p>
-            <img src={assets.compass_icon} alt="" />
+            <p>Improve the readability of the following code</p>
+            <img src={assets.code_icon} alt="" />
           </div>
         </div>
       </div>
